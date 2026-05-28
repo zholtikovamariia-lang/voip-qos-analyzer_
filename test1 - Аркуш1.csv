@@ -1,0 +1,6 @@
+id,delay_ms,jitter_ms,loss_percent,codec
+1,20,2,0,G.711
+2,25,3,0,G.722
+3,30,4,0.1,Opus
+4,35,5,0,G.711
+5,40,6,0.2,G.722

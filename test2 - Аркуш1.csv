@@ -1,0 +1,2 @@
+id,delay_ms,jitter_ms,loss_percent,codec
+1,350,50,8,G.711
