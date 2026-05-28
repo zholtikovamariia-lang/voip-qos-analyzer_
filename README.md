@@ -1,2 +1,19 @@
-# voip-qos-analyzer_
-Course project for VoIP QoS analysis using Python and E-model (ITU-T G.107)
+#VoIP QoS Analyzer
+
+Програма для аналізу якості IP-телефонії (VoIP) на основі моделі E-model (ITU-T G.107).
+
+## Можливості
+- Розрахунок MOS
+- Аналіз QoS
+- Робота з CSV
+- Побудова графіків
+- GUI на tkinter
+
+## Технології
+- Python
+- tkinter
+- matplotlib
+- CSV
+
+## Автор
+Марія Жолтікова
